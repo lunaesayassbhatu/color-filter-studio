@@ -2,6 +2,8 @@
 
 An interactive web app that applies real-time color filters and effects to photos using computer vision — built with Gradio and OpenCV.
 
+![Demo](demo.png)
+
 ## Filters
 
 | Filter | Effect |
